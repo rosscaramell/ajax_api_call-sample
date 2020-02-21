@@ -1,0 +1,17 @@
+body {
+  background-color:  #ffe484;
+}
+
+.jumbotron {
+    background-image: url("https://picsum.photos/id/185/1800/800");
+    background-size: cover;
+    background-position:center;
+    margin-bottom: 40px;
+
+}
+
+#product-container {
+    display: flex;
+    justify-content:center;
+   
+}
